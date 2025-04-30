@@ -1,7 +1,7 @@
-# Devops
+https://github.com/UpneshChaudhary/Devops.git
 
 
-# 🖥️ Server Performance Monitoring Script
+# #Server Performance Monitoring Script
 
 This script provides a quick overview of your Linux system's health and performance, including:
 
