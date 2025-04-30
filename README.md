@@ -1,5 +1,4 @@
-https://github.com/UpneshChaudhary/Devops.git
-
+https://roadmap.sh/projects/server-stats
 
 # #Server Performance Monitoring Script
 
@@ -87,5 +86,3 @@ echo ""
 echo "===== End of Report ====="
 
 
-
-![alt text](image-1.png)
